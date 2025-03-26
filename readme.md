@@ -43,8 +43,8 @@ The Information window provides:
 Integrated access to:
 - Terminal
 - Info Center
-- [X (Twitter)](https://x.com/chainn_ai)
-- [Telegram Channel](https://t.me/chainaichannel)
+- [X (Twitter)](https://x.com/chainaii_sol)
+- [Telegram Channel](https://t.me/ChainAi_Channel)
 
 ---
 
